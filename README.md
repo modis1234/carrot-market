@@ -13,7 +13,7 @@ Serverless Carrot Market Clone using Next.JS, Tailwind, Prisma, PlanetScale and 
  - Prettier를 통한 TailwindCSS 클래스 자동 정력 플러그인 설치
 `npm install -D prettier prettier-plugin-tailwindcss`
 
-#4 TOUR OF TAILWIND
-##4.0 Introduction
+## 4 TOUR OF TAILWIND
+### 4.0 Introduction
  - Tailwind CSS IntelliSense 자동 완성 확장 모듈 설치
   
